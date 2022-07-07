@@ -1,0 +1,5 @@
+[
+null,
+{"id":1,"battlerName":"actor new","characterIndex":0,"characterName":"actor new","classId":1,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"actornew","traits":[{"code":11,"dataId":1,"value":1}],"initialLevel":1,"maxLevel":30,"name":"Leonard","nickname":"Leonard","note":"","profile":""},
+{"id":2,"battlerName":"rose battle","characterIndex":0,"characterName":"rosechara","classId":4,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"rose","traits":[],"initialLevel":1,"maxLevel":99,"name":"Rose","nickname":"Rose","note":"","profile":""}
+]
